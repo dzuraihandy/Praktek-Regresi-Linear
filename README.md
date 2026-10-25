@@ -37,5 +37,3 @@ Notebook dapat dibaca di GitHub atau dijalankan di Google Colab/Jupyter Notebook
 - Python
 - Jupyter Notebook / Google Colab
 - Analisis regresi dan visualisasi data
-
-**Fit the line. Read the relationship. Interpret with care.**
